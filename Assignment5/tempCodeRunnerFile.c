@@ -1,0 +1,1 @@
+"%s",searchResult->name
